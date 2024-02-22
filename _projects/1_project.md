@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 1
-description: a project with a background image hello world
+description: a project with a background image hello world change change change
 img: assets/img/12.jpg
 importance: 1
 category: work
